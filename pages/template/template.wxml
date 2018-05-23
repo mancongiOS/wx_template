@@ -1,0 +1,5 @@
+<template name="template">
+  <view class="list-container">
+    <text class="title">{{name}}</text>
+  </view>
+</template>
